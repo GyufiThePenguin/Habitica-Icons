@@ -1,2 +1,2 @@
-# Clockwork-Raven
-Clockwork Raven icons
+# Icons for Habitica dashboard
+This repo is for hosting purpuses only. 
